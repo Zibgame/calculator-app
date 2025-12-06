@@ -28,4 +28,4 @@ The executable is already included in the repository:
 If you have an image, place it in `/Assets/image/` and update the link:
 
 ```md
-![Preview](Assets/img/calc.png)
+![Preview](calculator-app/Assets/img/git/calc.png)
