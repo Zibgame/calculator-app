@@ -1,26 +1,31 @@
-# Mini Calculator (WPF)
+\# Mini Calculator (WPF)
 
-A simple and modern calculator built with **C#** and **WPF**.  
-Created as part of my portfolio to demonstrate clean UI design and basic application logic.
+A simple calculator application built using **C#** and **WPF**.  
+This project was created as part of my portfolio to demonstrate UI design, event handling, and basic application structure in WPF.
 
 ---
 
 ## 🚀 Features
-- Basic arithmetic operations (addition, subtraction, multiplication, division)
-- Clean and minimal WPF interface
-- Responsive buttons
-- Lightweight and fast executable
+- Basic arithmetic operations  
+- Clean and minimal interface  
+- Lightweight, portable executable  
+- Works instantly without installation  
 
 ---
 
 ## 📥 Download
-You can download the latest build here:
 
-👉 **[Download the latest release](https://github.com/your-user/your-repo/releases/latest)**
+The executable is already included in the repository:
+
+👉 **[Download Calculatrice.exe](./Calculatrice.exe)**
+
+*(Click the link to download directly.)*
 
 ---
 
 ## 🖼️ Preview
-Add an image if you have one:
+
+If you have an image, place it in `/Assets/image/` and update the link:
 
 ```md
+![Preview](Assets/img/calc.png)
