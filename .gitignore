@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Autoriser WpfApp1.exe dans Release
+!bin/
+!bin/Release/
+!bin/Release/WpfApp1.exe
+!Calculatrice.exe
