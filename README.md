@@ -17,9 +17,8 @@ This project was created as part of my portfolio to demonstrate UI design, event
 
 The executable is already included in the repository:
 
-👉 **[Download Calculatrice.exe](./Calculatrice.exe)**
+👉 **[Download App](./Calculatrice.exe)**
 
-*(Click the link to download directly.)*
 
 ---
 
