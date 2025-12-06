@@ -25,4 +25,4 @@ The executable is already included in the repository:
 
 ## 🖼️ Preview
 
-(calculator-app/Assets/img/git/calc.png)
+[img](calculator-app/Assets/img/git/calc.png)
