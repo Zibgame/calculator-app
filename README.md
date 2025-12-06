@@ -1,4 +1,4 @@
-\# Mini Calculator (WPF)
+# Mini Calculator (WPF)
 
 A simple calculator application built using **C#** and **WPF**.  
 This project was created as part of my portfolio to demonstrate UI design, event handling, and basic application structure in WPF.
